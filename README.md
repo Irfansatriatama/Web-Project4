@@ -1,1 +1,4 @@
 # Web-Project4
+
+# Background
+In this advanced era, everything is made easy with the help of the latest technological discoveries. One of them is buying and selling activities that can be accessed online. The store works offline and online so there are many advantages, besides that there are obstacles that must be resolved so that it does not become a big problem that is detrimental. At the opening of this off and on-line store, the creation of a web catalog will help shoppers get information about the latest clothing according to the trend and season, several events that offer discounts, and many other things. This is our reason why our group created a web catalog with the aim of making it easier for buyers to determine which items they want to buy so that when going to the offline or online store it doesn't take a long time.
